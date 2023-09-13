@@ -18,7 +18,7 @@ You can see tutorials on how to create, and use it on <a href='https://botfather
 **Structure:**
 
 ```
-tgbot_template/
+aiogram-bot-template /
 ├── bot.py
 ├── tgbot/
 │   ├── __init__.py
